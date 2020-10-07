@@ -3,4 +3,4 @@ Here I provide my solutions for most popular Algorithms, Data Structure question
 
 
 
-Author : javokhir.tech
+Author : [javokhir.tech](www.javokhir.tech)
