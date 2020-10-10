@@ -42,8 +42,8 @@ Since not every customer received correct change, the answer is false.
  ```
 
 Note:
-
+```
 0 <= bills.length <= 10000
 bills[i] will be either 5, 10, or 20.
-
-https://leetcode.com/problems/lemonade-change/
+```
+[Problem Link](https://leetcode.com/problems/lemonade-change/)
