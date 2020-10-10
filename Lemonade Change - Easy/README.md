@@ -7,9 +7,7 @@ Note that you don't have any change in hand at first.
 Return true if and only if you can provide every customer with correct change.
 ```
 Example 1:
-
 Input: [5,5,5,10,20]                                       
-
 Output: true
 
 Explanation: 
@@ -18,15 +16,20 @@ From the first 3 customers, we collect three $5 bills in order.
 From the fourth customer, we collect a $10 bill and give back a $5.
 From the fifth customer, we give a $10 bill and a $5 bill.
 Since all customers got correct change, we output true.
-
+```
+```
 Example 2:
 
 Input: [5,5,10]
 Output: true
+```
+```
 Example 3:
 
 Input: [10,10]
 Output: false
+```
+```
 Example 4:
 
 Input: [5,5,10,10,20]
