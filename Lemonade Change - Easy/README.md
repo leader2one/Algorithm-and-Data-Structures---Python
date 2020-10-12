@@ -30,4 +30,4 @@ Note:
 1 <= people.length <= 50000
 1 <= people[i] <= limit <= 30000
 ```
-[Problem Link](https://leetcode.com/problems/lemonade-change/)
+[Problem Link](https://leetcode.com/problems/boats-to-save-people/)
