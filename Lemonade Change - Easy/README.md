@@ -47,4 +47,4 @@ Note:
 0 <= bills.length <= 10000
 bills[i] will be either 5, 10, or 20.
 ```
-[Problem Link](https://leetcode.com/problems/boats-to-save-people/)
+[Problem Link](https://leetcode.com/problems/lemonade-change/)
