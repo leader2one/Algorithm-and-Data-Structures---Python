@@ -1,4 +1,3 @@
-<div><p>The <code>i</code>-th person has weight <code>people[i]</code>, and each boat can carry a maximum weight of <code>limit</code>.</p>
 
 <p>Each boat carries at most 2 people at the same time, provided the sum of the&nbsp;weight of those people is at most <code>limit</code>.</p>
 
